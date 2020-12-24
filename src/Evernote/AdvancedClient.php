@@ -27,7 +27,7 @@ class AdvancedClient
     /** @var \Psr\Log\LoggerInterface */
     protected $logger;
 
-    const SANDBOX_BASE_URL = 'https://sandbox.evernote.com';
+    const SANDBOX_BASE_URL = 'https://sandbox.yinxiang.com';
     const PROD_BASE_URL    = 'https://www.evernote.com';
     const CHINA_BASE_URL   = 'https://app.yinxiang.com';
 
